@@ -1,7 +1,7 @@
 var input = document.querySelector(".input");
 
-function add(num) {
-  input.value += num;
+function add(val) {
+  input.value += val;
 }
 
 function result() {
